@@ -1,11 +1,16 @@
-# googleTextToSpeechTokenSwift
+** googleTextToSpeechTokenSwift **
+
 Google text to speech url from string in Swift.  Uses Google translate which requires a generated token.
 
 Inspired by https://github.com/Boudewijn26/gTTS-token
 
+
+___
+
+
 MIT License
 
-Copyright (c) 2016 Razvan SUprovici
+Copyright (c) 2016 Razvan Suprovici
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
